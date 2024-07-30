@@ -25,6 +25,9 @@
     <Compile Include="fetch_data.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="test_data.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
